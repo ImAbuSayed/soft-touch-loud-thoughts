@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/soft-touch-loud-thoughts/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Soft Touch Loud Thoughts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-loud-thoughts/) |
+| **Get License** | [License this song: Soft Touch Loud Thoughts](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/soft-touch-loud-thoughts/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `717a839c1e5e87cbe039fc799b6e4e36d7fd1ed0d52204a9c6f31231a0a57607` |
 | **Timestamp** | June 10, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
